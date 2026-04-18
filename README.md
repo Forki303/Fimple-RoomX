@@ -70,6 +70,7 @@ python client.py
 Нужно открыть порт 25565 на роутере (Port Forwarding) <br>
 Или использовать VPN (например Hamachi / Radmin VPN) <br>
 Или проброс через ngrok
+
 ---
 
 ## 🔐 Безопасность
